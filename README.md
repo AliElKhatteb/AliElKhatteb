@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there 👋 I'm Ali Ahmed
 
-<!--
-**AliElKhatteb/AliElKhatteb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 DevSecOps Engineer | ☁️ Cloud Engineer | 🛡️ Penetration Tester
 
-Here are some ideas to get you started:
+I enjoy building secure cloud infrastructure, automating deployments, and improving application security through offensive and defensive security practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🐧 Linux enthusiast
+- ☁️ AWS & Cloud Infrastructure
+- ☸️ Kubernetes & Docker
+- ⚙️ CI/CD with GitHub Actions & Jenkins
+- 🏗️ Infrastructure as Code (Terraform)
+- 🔴 Active Directory Penetration Testing
+- 🔍 Web & Network Penetration Testing
+- 🐍 Python & Bash Automation
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud
+- AWS
+
+### Containers
+- Docker
+- Kubernetes
+
+### DevOps
+- Terraform
+- Ansible
+- Jenkins
+- GitHub Actions
+- Gitlab CI/CD
+
+### Security
+- Burp Suite
+- Nmap
+- Metasploit
+- Wireshark
+- OWASP
+- Impacket
+- NXC
+
+### Languages
+- Python
+- Bash
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ali-abdelkarim/)
+- [Hack The Box](https://app.hackthebox.com/users/346056)
